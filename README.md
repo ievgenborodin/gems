@@ -4,4 +4,4 @@ Base for candy crush style game.
 
 ![Preview](/scr.jpg)
 
-Link to :video_game: http://feverart.com/gems/
+Link to :video_game: http://ievgenborodin.com/apps/gems
